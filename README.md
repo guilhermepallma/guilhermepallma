@@ -1,11 +1,11 @@
 ### Olá! Me chamo Guilherme 👋
 
 <p align="left">
-🌎 Moro em Dourados/Mato Grosso do Sul - Brasil
+- 🌎 Moro em Dourados/Mato Grosso do Sul - Brasil.
 <br><br>
-🤓 Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+- 🤓 Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
 <br><br>
-👨‍💻 Aberto a Novas Oportunidades Profissionais
+- 👨‍💻 Aberto a Novas Oportunidades Profissionais.
 </p><br>
 
 <div align="center">
