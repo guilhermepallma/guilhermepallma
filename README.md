@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepallma&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<div align="center">
+<div align="center"><br>
 
 | Languages  | Frameworks and Technologies | Tools |   
 |---|---|---|
