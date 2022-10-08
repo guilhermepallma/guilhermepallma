@@ -1,4 +1,4 @@
-### Olá! Me chamo Guilherme 👋
+### < console.log('👋 Olá! Me chamo Guilherme') />
 
 <p align="left">
 🌎 Moro em Dourados/Mato Grosso do Sul - Brasil
