@@ -5,7 +5,7 @@
 <br><br>
 🤓 Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 <br><br>
-👨‍💻 Aberto a novas oportunidades profissionais
+👨‍💻 Aberto a Novas Oportunidades Profissionais
 </p><br>
 
 <div align="center">
