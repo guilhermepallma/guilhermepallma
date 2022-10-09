@@ -7,6 +7,8 @@
 <br><br>
 - 🤓 Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
 <br><br>
+- 🎹 Produtor Musical nas Horas Vagas.
+<br><br>
 - 👨‍💻 Aberto a Novas Oportunidades Profissionais.
 </p>
 
