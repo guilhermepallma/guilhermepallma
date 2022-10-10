@@ -1,5 +1,4 @@
 # 🐱‍💻 Olá! Me Chamo Guilherme
-**`Digital Craftsman (Desenvolvedor/Produtor)`**
 
 <p align="left">
 - 🌎 Moro em Dourados/Mato Grosso do Sul - Brasil.
