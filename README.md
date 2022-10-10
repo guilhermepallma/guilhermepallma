@@ -1,5 +1,4 @@
 # 🐱‍💻 Olá! Me Chamo Guilherme
-
 **`Digital Craftsman (Desenvolvedor/Produtor)`**
 
 <p align="left">
@@ -11,6 +10,10 @@
 <br><br>
 - 👨‍💻 Aberto a Novas Oportunidades Profissionais.
 </p>
+
+[![Twitter Badge](https://img.shields.io/badge/-@guilhermepallma-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/guilhermepallma)](https://twitter.com/guilhermepallma) 
+[![Linkedin Badge](https://img.shields.io/badge/-guilhermepallma-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepallma/)](https://www.linkedin.com/in/guilhermepallma/) 
+[![Gmail Badge](https://img.shields.io/badge/-guilhermepallma@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepallma@gmail.com)](mailto:guilhermepallma@gmail.com)
 
 ---
 
@@ -37,14 +40,3 @@
 </div>
 
 ##
-
-<div align="center">
-<b>Contatos:<b>
-<br>
-<br>
-<p align="center">
-  <a href = "mailto:guilhermepallma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilhermepallma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
-</div>
