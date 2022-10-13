@@ -10,7 +10,6 @@
 - 👨‍💻 Aberto a Novas Oportunidades Profissionais.
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@guilhermepallma-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/guilhermepallma)](https://twitter.com/guilhermepallma) 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermepallma-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepallma/)](https://www.linkedin.com/in/guilhermepallma/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermepallma@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepallma@gmail.com)](mailto:guilhermepallma@gmail.com)
 
