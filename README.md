@@ -1,4 +1,4 @@
-# 🐱‍💻 Olá! Me Chamo Guilherme!
+# 🐱‍💻 Olá! Me Chamo Guilherme 🥷🏽
 
 <p align="left">
 - 🌎 Moro em Dourados/Mato Grosso do Sul - Brasil.
