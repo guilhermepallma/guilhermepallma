@@ -1,13 +1,8 @@
-# 🤘💻 Olá! Me chamo Guilherme!
+# 👨🏾‍🎨 Guilherme Palma
 
-<p align="left">
-📍 Moro em Dourados/Mato Grosso do Sul - Brasil.
-<br><br>
-🤓 Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
-<br><br>
-🎹 Produtor Musical nas Horas Vagas.
-<br><br>
-</p>
+**`Digital Craftsman (Desenvolvedor/Criador/Produtor)`**
+
+Ola, meu nome é Guilherme e tenho 23 anos. Sou desenvolvedor a mais de 1 ano e atualmente moro no Brasil. No meu github, você pode encontrar alguns dos projetos nos quais trabalhei. Estou sempre em busca de aprender mais e melhorar minhas habilidades como desenvolvedor, então ficarei muito feliz se você der uma olhada nos meus trabalhos e deixar algum feedback. Obrigado por visitar o meu github!
 
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermepallma-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermepallma/)](https://www.linkedin.com/in/guilhermepallma/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermepallma@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepallma@gmail.com)](mailto:guilhermepallma@gmail.com)
