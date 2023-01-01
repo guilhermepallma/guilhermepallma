@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Desenvolvedor/Criador/Produtor)`**
 
-Ola, meu nome é Guilherme e tenho 23 anos. Sou desenvolvedor a mais de um ano e atualmente estudo na Trybe School. No meu github, você pode encontrar alguns dos projetos nos quais trabalhei. Estou sempre em busca de aprender mais e melhorar minhas habilidades como desenvolvedor, então ficarei muito feliz se você der uma olhada nos meus trabalhos e deixar algum feedback. Obrigado por visitar o meu GitHub!
+Olá, meu nome é Guilherme e tenho 23 anos. Sou desenvolvedor há mais de um ano e atualmente estudo na [Trybe School](https://www.betrybe.com/). No meu GitHub, você pode encontrar alguns dos projetos em que trabalhei. Estou sempre em busca de aprender mais e melhorar minhas habilidades como desenvolvedor, então ficarei muito feliz se você der uma olhada em meus trabalhos e deixar algum feedback. Obrigado pela visita!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepallma/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermepallma@gmail.com)
