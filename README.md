@@ -1,6 +1,10 @@
 # 👨🏾‍🎨 Guilherme Palma
 
-Olá, meu nome é Guilherme. Sou desenvolvedor há mais de um ano e atualmente estudo na [Trybe](https://www.betrybe.com/). No meu GitHub, você vai encontrar alguns dos projetos em que trabalhei. Estou sempre em busca de aprender mais e melhorar minhas habilidades como desenvolvedor, então ficarei muito feliz se você der uma olhada em meus projetos e deixar algum feedback. Obrigado pela visita!
+**`Digital Craftsman (Developer/Producer)`**
+
+Olá, meu nome é Guilherme e sou desenvolvedor há mais de um ano. Minha trajetória na tecnologia teve início precocemente, aos 9 anos de idade, quando adquiri meu primeiro computador, onde criei uma paixão por hardwares e sistemas operacionais. Aos 20 anos, ingressei na faculdade de Sistemas de Informações na [UFGD](https://portal.ufgd.edu.br/), onde tive meu primeiro contato com a programação em linguagem C.
+
+Durante a pandemia, decidi iniciar um curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/) onde me dediquei integralmente ao estudo e à programação. Após 1 ano de curso, formei-me e agora estou atuando no mercado de trabalho, buscando aprimorar minhas habilidades e competências diariamente, com o objetivo de me tornar um profissional cada vez mais capacitado.
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepallma/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermepallma@gmail.com)
@@ -9,6 +13,7 @@ Olá, meu nome é Guilherme. Sou desenvolvedor há mais de um ano e atualmente e
 ### 🧰 Linguagens e Ferramentas
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -16,9 +21,6 @@ Olá, meu nome é Guilherme. Sou desenvolvedor há mais de um ano e atualmente e
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Sequelize" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-<img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Mocha" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -32,5 +34,3 @@ Olá, meu nome é Guilherme. Sou desenvolvedor há mais de um ano e atualmente e
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermepallma&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepallma&=anuraghazra&layout=compact&theme=chartreuse-dark"/>
 </div>
-
-##
