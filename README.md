@@ -37,6 +37,5 @@ Durante a pandemia, decidi iniciar um curso de Desenvolvimento Web Full Stack na
 ##
 
 <div align="center">
-  <img align="center" alt="Spotify list" width="200px" src="https://spotify-github-profile.vercel.app/api/view?uid=guilhermepalmaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false"/>
-<img align="center" alt="Spotify list" width="300px" src="https://spotify-recently-played-readme.vercel.app/api?user=guilhermepalmaa"/>
+  <img align="center" alt="Spotify list" src="https://spotify-github-profile.vercel.app/api/view?uid=guilhermepalmaa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6cb14e&bar_color_cover=false"/>
 </div>
