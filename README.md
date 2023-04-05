@@ -6,6 +6,9 @@ Olá, meu nome é Guilherme e sou desenvolvedor há mais de um ano. Minha trajet
 
 Durante a pandemia, decidi iniciar um curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/) onde me dediquei integralmente ao estudo e à programação. Após 1 ano de curso, formei-me e agora estou atuando no mercado de trabalho, buscando aprimorar minhas habilidades e competências diariamente, com o objetivo de me tornar um profissional cada vez mais capacitado.
 
+- 🔭 Atualmente estou trabalhando com Node.JS/SQL.
+- 🌱 No momento estou aprendendo Algoritmos e Estruturas de Dados.
+
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepallma/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermepallma@gmail.com)
 ---
