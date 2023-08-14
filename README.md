@@ -6,7 +6,7 @@ Olá, meu nome é Guilherme e sou desenvolvedor há mais de um ano. Minha trajet
 
 Durante a pandemia, decidi iniciar um curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/) onde me dediquei integralmente ao estudo e à programação. Após 1 ano de curso, formei-me e agora estou atuando no mercado de trabalho, buscando aprimorar minhas habilidades e competências diariamente, com o objetivo de me tornar um profissional cada vez mais capacitado.
 
-- 🔭 Atualmente estou trabalhando com AWS/Python.
+- 🔭 Atualmente estou trabalhando com Suporte e Infraestrutura de T.I
 - 🌱 No momento estou aprimorando meus conhecimentos em Algoritmos e aprendendo Java.
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepallma/) 
