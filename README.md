@@ -4,8 +4,6 @@ Sou profissional de T.I com 4 anos de experiência em infraestrutura e suporte, 
 
 Desenvolvo ferramentas personalizadas que otimizam o controle de estoque e aprimoram a agilidade operacional. Dediquei os últimos 3 anos ao aprimoramento das minhas habilidades em desenvolvimento, buscando complementar com meus conhecimentos em redes e infraestrutura.
 
-- 🌱 No momento, estou aprimorando os meus conhecimentos em Python e inglês.
-
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepallma/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermepallma@gmail.com)
 ---
